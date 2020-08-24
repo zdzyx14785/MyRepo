@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * 1.注册Springmvc的拦截器
- * 2.添加拦截器的拦截路径
+ * 2.添加拦截器的拦截路径1
  */
 @Configuration
 public class InterceptorRules implements WebMvcConfigurer {
